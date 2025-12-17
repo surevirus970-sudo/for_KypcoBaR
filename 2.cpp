@@ -22,7 +22,7 @@ int main() {
         }
     }
 
-while (iz < n) {
+    while (iz < n) {
         arr[iz] = 0;
         iz++;
     }
